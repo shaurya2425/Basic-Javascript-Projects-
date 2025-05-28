@@ -29,7 +29,7 @@ A fully functional to-do list where users can add, complete, and remove tasks. D
 A weather forecast app that fetches live weather data using the OpenWeatherMap API and displays temperature, humidity, and weather conditions based on the user's input city.
 
 - Concepts used: Fetch API, async/await, working with external APIs, error handling
-
+- ![Screenshot](Weather-App-Preview.png)
 ---
 
 ## 🛠️ Tech Stack
